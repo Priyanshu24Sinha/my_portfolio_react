@@ -18,8 +18,9 @@ const About = () => {
          huge interest towards competitive programming and web development.
         I have keen interest on upcoming technologies and softwares.
         I have been learning web development and practising data structure and algorithm from a
-         long time,
-          you can watch some of my achievements by going through my profile in the portfolio section.
+         long time. I have solve over 700+ DSA problems across various coding platforms,
+          you <br></br>
+          can watch some of my achievements by going through my profile in the portfolio section.
         </p>
 
         <br />

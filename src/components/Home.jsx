@@ -36,7 +36,7 @@ const Home = () => {
           </div>
         </div>
 
-        <div>
+        <div className="w-[225px] h-[225px] ">
           <img
             src={HeroImage}
             alt="my profile"

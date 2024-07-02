@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/priyanshu-sinha-14b366289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       style: "rounded-tr-md",
     },
     {
