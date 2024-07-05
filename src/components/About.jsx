@@ -16,18 +16,18 @@ const About = () => {
         <p className="text-xl mt-20">
         An engineering student in the department of Electronics and communication engineering and a
          huge interest towards competitive programming and web development.
-        I have keen interest on upcoming technologies and softwares.
+        I have keen interest in upcoming technologies and softwares.
         I have been learning web development and practising data structure and algorithm from a
          long time. I have solve over 700+ DSA problems across various coding platforms,
           you <br></br>
-          can watch some of my achievements by going through my profile in the portfolio section.
+          can watch some of my achievements by going through my coding profiles in the portfolio section.
         </p>
 
         <br />
 
         <p className="text-xl">
        
-          I have done my matriculation and class XII from vivekananda central school Hazaribag with 9.6 CGPA and 89.2% respectively.
+          I have done my class X and class XII from vivekananda central school Hazaribag with 9.6 CGPA and 89.2% respectively.
         </p>
       </div>
     </div>

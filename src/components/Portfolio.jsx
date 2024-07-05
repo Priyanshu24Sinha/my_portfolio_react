@@ -3,6 +3,8 @@ import cf from "../assets/portfolio/codeforceslogo.jpg";
 import leetcode from "../assets/portfolio/LeetCode.png";
 import gfglogo from "../assets/portfolio/gfgPic.jpg"
 import projlogo from "../assets/portfolio/projectPIC.png"
+import usab from "../assets/portfolio/usab.png"
+import proj3img from "../assets/portfolio/gitupic.png"
 
 
 
@@ -28,20 +30,22 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      name:"Project",
+      name:"Project1",
       src: projlogo,
       link: "https://my-ecom-frontend-zeta.vercel.app/",
     },
-    // {
-    //   id: 5,
-    //   src: leetcode,
-    //   link: "https://linkedin.com",
-    // },
-    // {
-    //   id: 6,
-    //   src: leetcode,
-    //   link: "https://linkedin.com",
-    // },
+    {
+      id: 5,
+      name: "Project2",
+      src: proj3img,
+      link: "https://github.com/Priyanshu24Sinha/Parallel-file-encryption",
+    },
+    {
+      id: 6,
+      name: "project3",
+      src: usab,
+      link: "https://priyanshu24sinha.github.io/usability_hub_website_clone/##",
+    },
   ];
 
   return (
